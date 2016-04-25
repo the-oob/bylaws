@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+            "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<book>
+  <title>Bylaws of The Out of Band</title>
+
+    <chapter>
+        <title>Name</title>
+        <para>The name of this corporation shall be The Out of Band</para>
+    </chapter>
+    <chapter id="principal-office">
+        <title>Principal Office</title>
+        <para>The principal office for the transaction of the activities and
+          affairs of this corporation is located at ##FIXME## The board of
+          directors may change the location of the principal office. Any such
+          change must be noted by the secretary on these bylaws by
+          amendment.</para>
+        <para>The board may at any time establish branch or subordinate offices
+        at any place or places where this corporation is qualified to
+        conduct its activities.</para>
+    </chapter>
+    <chapter>
+        <title>Purpose</title>
+        <section>
+            <title>Mission</title>
+            <para>The Out of Band provides an environment for people to educate, create,
+            and share amongst themselves and others within the domains of
+            technology, art and science.</para>
+        </section>
+        <section>
+            <title>Purpose</title>
+            <para>This corporation shall be organized and operated exclusively for
+            charitable, educational, and scientific purposes within the meaning of
+            Section 501 (c)(3) of the Internal Revenue Code, including but not limited to:</para>
+            <itemizedlist>
+                <listitem><para>Through talks, classes, workshops, collaborative
+                projects, and other activities, to encourage research, knowledge
+                exchange, learning, and mentoring in a safe, clean space</para></listitem>
+                <listitem><para>Provide educational spaces for teaching practical skills
+                and theory of technology, science, and art.</para></listitem>
+                <listitem><para>Provide work space, storage, and other resources for projects
+                related to art, science, and technology that will benefit the
+                individual members' personal growth in their fields of interest,
+                encouraging the individual members to share their projects and knowledge
+                for the betterment of society through art, science, and technology.</para></listitem>
+                <listitem><para>To create, learn, and teach, individually and as a group,
+                inviting members of the community in the San Francisco Bay Area and the world.</para></listitem>
+                <listitem><para>To develop, support the development of, and provide resources for
+                the development of free and open source software and hardware for the
+                benefit of society.</para></listitem>
+                <listitem><para>Collaboration across disciplines for the benefit of cultural,
+                charitable, and scientific causes.</para></listitem>
+                <listitem><para>To foster, by all legal means, the common purposes
+                of its participants</para></listitem>
+                <listitem><para>To conduct or engage in all lawful activities in furtherance
+                of the stated purposes or those incidental to them.</para></listitem>
+            </itemizedlist>
+        </section>
+        <section>
+            <title>Limitation on Activities</title>
+            <para>The activities of the Corporation shall be performed in
+            service to and with guidance of the community of participants.
+            Notwithstanding any other provisions of these Articles, the Corporation
+            shall not carry on any activities not permitted to be carried on by a
+            corporation exempt from federal income tax under Section
+            501(c)(3) of the Code.</para>
+        </section>
+    </chapter>
+    <chapter>
+        <title>Dedication of Assets</title>
+        <para>This corporation's assets are irrevocably dedicated to public benefit
+        purposes. No part of the net earnings, properties, or assets of the
+        corporation, on dissolution or otherwise, shall inure to the benefit of
+        any private person or individual, or to any director or officer of the
+        corporation. On liquidation or dissolution, all properties and assets
+        remaining after payment, or provision for payment, of all debts and liabilities
+        of the corporation shall be distributed to a nonprofit fund, foundation,
+        or corporation that is organized and operated exclusively for charitable
+        purposes and that has established its exempt status under Internal Revenue
+        Code section 501 (c)(3).</para>
+    </chapter>
+    <chapter>
+        <title>Membership Organizational Structure</title>
+        <section>
+            <title>Membership Qualifications</title>
+            <para>##FIXME##</para>
+        </section>
+        <section>
+            <title>Rights of Membership</title>
+            <para>##FIXME##</para>
+        </section>
+    </chapter>
+    <chapter>
+        <title>Board of Directors</title>
+        <section>
+            <title>Powers</title>
+            <para>All corporate powers, property, and affairs of this Corporation
+            shall be vested in, exercised, controlled, and managed by the Board
+            of Directors.
+            </para>
+        </section>
+        <section>
+            <title>Number of and Qualifications for Directors</title>
+            <para>##FIXME##</para>
+        </section>
+    </chapter>
+    <chapter>
+        <title>Officers of the Corporation</title>
+        <section id="offices-held">
+            <title>Offices Held</title>
+            <para>##FIXME##</para>
+        </section>
+    </chapter>
+    <chapter id="inspection-rights">
+        <title>Inspection Rights</title>
+        <section>
+            <title>Membership Records</title>
+            <para>Unless the corporation provides a reasonable alternative as
+            provided below, any member may do either or both of the following
+            for a purpose reasonably related to the member's interest as a member:</para>
+            <itemizedlist>
+                <listitem><para>Inspect and copy the records containing members'
+                names, addresses, and voting rights during usual business hours
+                on five days' prior written demand on the corporation, which
+                must state the purpose for which the inspection rights are requested; or
+                </para></listitem>
+                <listitem><para>Obtain from the secretary of the corporation, on
+                written demand and tender of a reasonable charge, a list of names,
+                addresses, and voting rights of members who are entitled to vote
+                for directors as of the most recent record date for which that
+                list has been compiled, or as of the date, after the date of
+                demand, specified by the member. The demand shall state the purpose
+                for which the list is requested. The secretary shall make this
+                list available to the member on or before the later of ten
+                days after the demand is received or the date specified in the
+                demand as the date as of which the list is to be compiled.
+                </para></listitem>
+            </itemizedlist>
+            <para>The corporation may, within ten business days after receiving a demand under this Section, make a written offer of an alternative method of reasonable and timely achievement of the proper purpose specified in the demand without providing access to or a copy of the membership list. Any rejection of this offer must be in writing and must state the reasons the proposed alternative does not meet the proper purpose of the demand.</para>
+            <para>If the corporation reasonably believes that the information will be used for a purpose other than one reasonably related to a person's interest as a member, or if it provides a reasonable alternative under this Section, it may deny the member access to the membership list. Any inspection and copying under this Section may be made in person or by the member's agent or attorney. The right of inspection includes the right to copy and make extracts. This right of inspection extends to the records of any subsidiary of the corporation.</para>
+        </section>
+        <section>
+            <title>Accounting records and minutes</title>
+            <para>On written demand on the corporation, any member may inspect, copy, and make extracts of the accounting books and records and the minutes of the proceedings of the members, the board of directors, and committees of the board at any reasonable time for a purpose reasonably related to the member's interest as a member. Any such inspection and copying may be made in person or by the member's agent or attorney. This right of inspection extends to the records of any subsidiary of the corporation.</para>
+        </section>
+        <section>
+            <title>Maintenance and Inspection of Articles and Bylaws</title>
+            <para>This corporation shall keep at its principal California office the original or a copy of the articles of incorporation and bylaws, as amended to the current date, which shall be open to inspection by the members at all reasonable times during office hours. If the corporation has no business office in California, the secretary shall, on the written request of any member, furnish to that member a copy of the articles of incorporation and bylaws, as amended to the current date.</para>
+        </section>
+    </chapter>
+    <chapter>
+        <title>Interested Persons</title>
+        <section>
+            <title>Limitations on Interested Persons</title>
+            <para>At all times, not more than 49% of officers in the Board of Directors
+            may be Interested Persons. An Interested Person is defined as:</para>
+            <itemizedlist>
+                <listitem><para>Any member currently being compensated by the
+                organization for services rendered to it within the previous twelve months,
+                whether as a full-time or part-time employee, independent contractor, or otherwise, excluding
+                any reasonable compensation paid to a director in his or her capacity
+                in the Board of Directors; Or</para></listitem>
+                <listitem><para>Any brother, sister, ancestor, descendant, spouse, brother-in-law,
+                sister-in-law, son-in-law, daughter-in-law, mother-in-law, or father-in-law of any
+                such person.</para></listitem>
+            </itemizedlist>
+        </section>
+        <section>
+            <title>Self dealing transactions</title>
+            <para>Where it is not reasonably practicable to obtain approval of the Board of
+            Directors before entering into a self dealing transaction, the office of the
+            Treasurer or Champion may approve such a transaction under the condition that,
+            at the following meeting of the Board of Directors, a quorum of the Board of Directors
+            determines that the transaction was in the unbiased and best interests of the
+            corporation and that it was not reasonably practical to obtain advance approval by a full
+            quorum of the Board of Directors</para>
+        </section>
+    </chapter>
+    <chapter>
+        <title>Amendments</title>
+        <para>##FIXME##</para>
+    </chapter>
+</book>
